@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/My.Doom.Agent.csproj\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/Program.cs\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/appsettings.json\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/appsettings.Development.json\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/MainController.cs\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/Properties/launchSettings.json\")",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/My.Doom.Agent/My.Doom.Agent.sln\")",
+      "Read(//c/Sandboxes/TeamsDoom/My.Doom.Agent/**)",
+      "Bash(cat \"/c/Sandboxes/TeamsDoom/My.Doom.Agent/TeamsApp/README.md\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
